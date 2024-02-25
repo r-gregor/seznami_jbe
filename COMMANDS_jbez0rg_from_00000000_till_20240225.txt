@@ -1,0 +1,1258 @@
+. venv/bin/activate
+./c_sizes 
+./imdb_scrapping.py 
+./imdb_scrapping2.py 
+./run_jn.sh 
+./rust-test-01 
+./testing_02 
+PWD
+ami
+bin sas2_retreive_structs_from_file_v7.c 
+bin/c_printf_padding_test 
+bin/disp_int_arr 
+bin/disp_strcts_arr 
+bin/integer_division_using_div_v3 
+bin/integer_division_using_div_v3 8899
+bin/recursion_V1 
+bin/region_memory_test_v1
+bin/sas1_serialize_array_of_structs_v12 
+bin/sas2_retreive_structs_from_file_v7 
+bin/string_traverse_with_pointers_v2 
+bin/struct_serialization_test_v1 
+bin/test_hex_to_bin32 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAa
+bin/test_hex_to_bin64 
+bin/test_hex_to_bin64 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAa
+c RUST_d/
+cargo build
+cargo help print
+cargo help println
+cargo help println!
+cargo init
+cargo version
+cargo | less
+cat 
+cat * | grep diff
+cat * | grepc -E "for .*diff" | less
+cat * | grepc diff
+cat * | grepc diff | less
+cat ../rsd_001_test_20210512/rust-test-01.rs 
+cat 6
+cat CREDITS 
+cat README.txt 
+cat testing_02.rs >> src/main.rs 
+cat ~/majstaf/metsys_jbez0rg/changes-in-*
+chmod 755 build_and_run.sh 
+chmod 755 imdb_scrapping.py 
+chmod 755 imdb_scrapping2.py 
+cp -r pd_081_imdb_cinemagoer_20230806/ ~/majstaf/coding/PYTHON_d/PYTHON_d_testing/
+cp -r ~/Dropbox/ODPRTO/MCDN/coding .
+cp -r ~/Dropbox/ODPRTO/MCDN_d/coding/C_Cpp_d/c_d_testing/* .
+cp -r ~/Dropbox/ODPRTO/MCDN_en/coding/C_Cpp_en/c_en_testing/cn107_struct-serialization_20230607/ .
+cp -r ~/_ODPRTO_drpbx/MCDN_en/coding/C_Cpp_en/c_en_testing/cn_999_struct_serialization_test_20230925/ .
+cp c_sizes ~/majstaf/majbin/
+cp changes-in-* ~/majstaf/metsys_jbez0rg/
+cp dropbox dropbox.ORIGINAL_20230613
+cp ~/_c_d_testing/Makefile .
+db1 
+dboj
+diff -q _ODPRTO_drpbx/MCDN_d/coding ~/majstaf/coding
+diff -q _ODPRTO_drpbx/MCDN_d/coding ~/majstaf/coding | grep -v Common
+diff _ODPRTO_drpbx/MCDN_d/coding ~/majstaf/coding
+diff _ODPRTO_drpbx/MCDN_d/coding ~/majstaf/coding | grep -v Common
+diff _ODPRTO_drpbx/MCDN_d/coding/ ~/majstaf/coding/ | grepc Only
+ffn ~/_ODPRTO_drpbx/_C_and_Cpp/c_struct-member-by-offset-multif_20230921.txt 
+file /home/rgregor/majstaf/majbin/rsort-by-tmstmp_c 
+file /usr/local/bin/rsort-by-tmstmp_c 
+file /usr/local/bin/s2
+file dropbox 
+find -type f -iname "*imdb*"
+for FFF in ~/majstaf/majbin/python_venv_and_pip_setup/*; do echo $FFF; done
+for FFF in ~/majstaf/majbin/python_venv_and_pip_setup/*; do softlink1-fname-to-ulb $FFF; done
+for i in $(seq 0 9); do printf "\e[$i;104mBARVE\e[0m -- $i\n"; done
+for i in $(seq 0 9); do printf "\e[$i;32;101mBARVE\e[0m -- $i\n"; done
+for i in $(seq 0 9); do printf "\e[$i;32;41mBARVE\e[0m -- $i\n"; done
+for i in $(seq 0 9); do printf "\e[$i;32;43mBARVE\e[0m -- $i\n"; done
+for i in $(seq 0 9); do printf "\e[$i;32;44mBARVE\e[0m -- $i\n"; done
+for i in $(seq 0 9); do printf "\e[$i;32;47mBARVE\e[0m -- $i\n"; done
+for i in $(seq 0 9); do printf "\e[$i;32;49mBARVE\e[0m -- $i\n"; done
+for i in $(seq 0 9); do printf "\e[$i;94mBARVE\e[0m -- $i\n"; done
+grep 'isSet()' dropbox 
+grep --color java ./*
+grep --color java ./* | less
+grep --color=always java ./* | less
+grepc -r 'Accept-Language' ~/majstaf/coding/*
+im src/main.rs 
+journalctl -b
+l ../
+ld-essential
+less bash_prompts.txt 
+less ~/majstaf/metsys_jbez0rg/bash_prompts.txt 
+listulb | grep sort
+listulb | grepc s2
+listulb | less
+ln -s ~/majstaf/coding/RUST_d/rust_d_projects/ ~/_rust_d_projects
+ln -s ~/majstaf/coding/RUST_d/rust_d_testing/ ~/_rust_d_testing
+make -f ../Makefile 
+mkdir -p ~/_BRISI/20230925
+mkdir __20230603__
+mkdir rsd_002_testing-02_20230708
+mke
+mv c{n,d}107_struct-serialization_20230607/
+mv ffbookmarks_find_links_by_timestamp{_v2,}.sh 
+mv movies.py ~/_BRISI/imdb_20230806/
+mv rs{n,d}_001_test_20210512/
+nu
+pip freeze
+pip list
+pip search scrapimdb
+python imd_movies_scrapping_v00_original.py 
+python imd_movies_scrapping_v01.py 
+python imd_movies_scrapping_v02.py 
+python imdb_scrapping.py 
+python imdb_scrapping2.py 
+q
+rsort-by-tmstmp_c
+rsort-by-tmstmp_c 
+rsort-by-tmstmp_c _C_and_Cpp/
+rsort-by-tmstmp_c | less
+rsort-by-tmstmp_c | ~/Dropbox/ODPRTO/_C_and_Cpp
+rsort-by-tmstmp_c | ~/Dropbox/ODPRTO/_C_and_Cpp/
+rsort-by-tmstmp_c | ~/Dropbox/ODPRTO/_C_and_Cpp/*
+rustc testing_02.rs 
+rustdoc 
+rustdoc println
+rustdoc | less
+rustup doc
+s
+s | grep -i awesome
+s | grep -i nerd
+s | grep font | less
+s | less
+sudo add-apt-repository ppa:papirus/papirus
+sudo apt updtae
+sudo chown -R zed: /home/zed/.fonts
+sudo cp -r .fonts/ /home/zed/
+sudo cp -rv .fonts/ /home/zed/
+sudo cp NDs.txt /home/zed/
+sudo cp dropbox dropbox.ORIGINAL_20230613
+sudo echo "Maika Monroe ND" >> /home/zed/Desktop/ND.txt
+sudo service lightdm start
+sudp cp NDs.txt /home/zed/
+tar.xz ~/.icons/
+target/debug/rsd_002_testing-02_20230708 
+thub.com/r-gregor/d_metsys.git
+tre
+tree target/debug/
+tty/examples/kitty.conf .
+type /home/rgregor/majstaf/majbin/rsort-by-tmstmp_c 
+type dboj
+type dmts
+type rsort-by-tmstmp_c
+type s2
+typr dmts
+unzip archive.zip 
+valgrind-test bin/region_memory_test_v1
+valgrind-test bin/region_memory_test_v5
+valgrind-test bin/region_memory_test_v5-1_heap-region 
+vka
+which cargo
+| grep font
+| grep font | less
+~/majstaf/majbin/python_venv_and_pip_setup/venv_s0_mkvnv_inst 
+~/majstaf/majbin/python_venv_and_pip_setup/venv_s3_remove_venv 
+./Build_and_Run.sh 
+./DRYRUN-rsync-jbez0rg_MEDION_1Tb 
+./example
+./ffbookmarks_find_links_by_timestamp_v2.sh 
+./ffbookmarks_find_links_by_timestamp_v2.sh ff_jbez0rg_bookmarks_20231006.html 20230510
+./ffbookmarks_find_links_by_timestamp_v2.sh ff_jbez0rg_bookmarks_20231006.html 2023090[1-9]
+./ffbookmarks_find_links_by_timestamp_v2.sh ff_jbez0rg_bookmarks_20231006.html 2023090[1-9] | grep -v youtube
+./ffbookmarks_find_links_by_timestamp_v2.sh ff_jbez0rg_bookmarks_20231006.html 2023090[1-9] | less
+./ffbookmarks_find_links_by_timestamp_v2.sh ff_jbez0rg_bookmarks_20231006.html 20231005
+./ffbookmarks_find_links_by_timestamp_v2.sh ff_jbez0rg_bookmarks_20231006.html 20231006
+./find_links_with_timestamp.sh 
+./find_links_with_timestamp.sh 20231005
+./find_links_with_timestamp.sh 2023100[1-6]
+./find_links_with_timestamp_v2.sh 
+./find_links_with_timestamp_v2.sh ff_jbez0rg_bookmarks_20231006.html
+./find_links_with_timestamp_v2.sh ff_jbez0rg_bookmarks_20231006.html 20231005
+./find_links_with_timestamp_v2.sh ff_jbez0rg_bookmarks_20231006.html 20231006
+./fsort_files 
+./fsort_files | head
+./initialize.sh 
+./renamedir-from-n-to-d.sh 
+./renamedir-from-n-to-d.sh cn_121_dirnamed_dirnamen_20230928/
+./rsort-by-enddate_c ~/_ODPRTO_drpbx/_C_and_Cpp/ | less
+./rsort-by-enddate_g ~/_ODPRTO_drpbx/_C_and_Cpp/
+./rsort-by-enddate_g ~/_ODPRTO_drpbx/_C_and_Cpp/ | less
+./rsort-by-tmstmp_c ~/_ODPRTO_drpbx/_C_and_Cpp/
+./rsort-by-tmstmp_c ~/_ODPRTO_drpbx/_C_and_Cpp/ | less
+./valgrind-test.sh bin/c_test_retruning_pointer 
+/media/rgregor/eb8aea4b-d092-4b4e-9b83-f6b48ccc170e/DRYRUN-rsync-jbez0rg_MEDION_1Tb 
+/media/rgregor/eb8aea4b-d092-4b4e-9b83-f6b48ccc170e/RUN-rsync-jbez0rg_MEDION_1Tb 
+A2="https://www.youtube.com/watch?v=Xdbk1Pr5WXU"
+CD
+DBOC
+DEST=~/majstaf/coding/C_Cpp_d/c_d_testing/
+DEST=~/majstaf/coding/JAVA_d/JAVA_d_testing/
+DEST=~/majstaf/coding/PYTHON_d/PYTHON_d_testing/
+SRC=~/Dropbox/ODPRTO/MCDN_d/coding/C_Cpp_d/c_d_testing/
+SRC=~/Dropbox/ODPRTO/MCDN_d/coding/JAVA_d/JAVA_d_testing/
+SRC=~/Dropbox/ODPRTO/MCDN_d/coding/PYTHON_d/PYTHON_d_testing/
+_c_d_testing
+bash find_links_with_timestamp.sh
+bash find_links_with_timestamp.sh 
+bash find_links_with_timestamp.sh 20231004
+bash find_links_with_timestamp.sh 20231005
+bash find_links_with_timestamp.sh 20231006
+bash find_links_with_timestamp.sh 2023100[45]
+bash find_links_with_timestamp.sh 2023100[56]
+bash find_links_with_timestamp.txt 
+bin/c_offsetof_test 
+bin/c_offsetof_test_v1 
+bin/c_offsetof_test_v2
+bin/c_offsetof_test_v2 
+bin/c_test_retruning_pointer 
+bin/countdown_timer_v3 
+bin/multiple_return_v1 
+bin/multiple_return_v2
+bin/multiple_return_v3
+bin/multiple_return_v4 
+bin/rectangle_info | less
+bin/retreive_structs_from_file_v4 
+bin/return_multiple_v4 
+bin/serialize_array_of_structs_v9 
+bin/stack_example_V4 
+bin/struct_in_func_2 
+bin/struct_internal_offset_v3
+bin/test_hex_to_bin32 11223344
+bin/test_hex_to_bin32 1122334455
+bin/test_hex_to_bin32 ff00ccaa
+bin/test_hex_to_bin64
+bin/test_hex_to_bin64 aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+bin/test_hex_to_bin64 | sed 's/ /./g'
+bin/test_hex_to_bin64 | sed 's/ //g'
+c_sizes 
+cargo --versiob
+cat -n ff_jbez0rg_bookmarks_20231006.html 
+cat -n ff_jbez0rg_bookmarks_20231006.html | grep -v ADD
+cat -n ff_jbez0rg_bookmarks_20231006.html | grep -v ADD | less
+cat > fruits.bin 
+cat OUTPUT.txt 
+cat requirements.txt 
+cat requirements_no-versons.txt 
+chmod 644 gp*
+chmod 755 find_links_with_timestamp.sh 
+chmod 755 fsort_files 
+chmod 755 gp*
+chmod 755 initialize.sh 
+chnod 644 *
+co -r src/ test
+cource venv/bin/activate
+cp 
+cp -i ./* ~/majstaf/metsys_jbez0rg/
+cp -i DRYRUN-rsync-jbez0rg_MEDION_1Tb RUN-rsync-jbez0rg_MEDION_1Tb 
+cp -i fruits.bin  ../
+cp -i majstaf/coding/00_ukazi/b-find-* ~/majstaf/majbin/
+cp -r documentation/ toolbox/ ~/majstaf/coding2/
+cp -r renaming_programming_folders ~/majstaf/majbin/
+cp -r src/ test
+cp -r ~/Dropbox/ODPRTO/MCDN_d/coding/* .
+cp -r ~/Dropbox/ODPRTO/MCDN_d/coding/RUST_d/ .
+cp -r ~/Dropbox/ODPRTO/MCDN_en/coding/C_Cpp_en/c_en_testing/cn101_test_hex_to_bin_h_20230418/ .
+cp -r ~/_ODPRTO_drpbx/MCDN_d/coding/00_ukazi/renaming_programming_folders/ .
+cp -r ~/_ODPRTO_drpbx/MCDN_en/coding/C_Cpp_en/c_en_testing/cn106_return-multiple-vars-from-function_20230605/* .
+cp -rn OSTALO_pd/* pd_OSTALO/
+cp -rn ~/Dropbox/ODPRTO/MCDN_d/coding/* ~/majstaf/coding/
+cp -rn ~/Dropbox/ODPRTO/MCDN_d/coding/C_Cpp_d/c_d_testing/* ~/majstaf/coding/C_Cpp_d/c_d_testing/
+cp -rn ~/Dropbox/ODPRTO/MCDN_d/majbin/* .
+cp -rn ~/Dropbox/ODPRTO/MCDN_d/majbin/* ~/majstaf/majbin/
+cp ../*.sh .
+cp ../../Makefile .
+cp ffbookmarks_find_links_by_timestamp.sh ~/majstaf/coding/00_ukazi/
+cp find_links_with_timestamp{,_v2}.sh 
+cp fruits.bin test/
+cp jar* jrun jvfx-* ~/majstaf/coding/majnjujava/
+cp movies_v2.py movies_v3.py 
+cp movies_v{3,4}.py 
+cp serialize.h serialize_v1.h
+cp serialize_array_of_structs_v10.{c,h} 
+cp valgrind-test.sh ../
+cp ~/Dropbox/ODPRTO/MCDN_d/coding/PYTHON_d/PYTHON_d_testing/names_d.txt ~/majstaf/coding/PYTHON_d/PYTHON_d_testing/
+cs SALSA/
+diff -q $SRC $DEST
+diff -q $SRC $DEST | grep -v Common
+diff -q $SRC $DEST | grepc Only
+diff _ODPRTO_drpbx/MCDN_d/coding/ ~/majstaf/coding/
+dirlist | clm
+dmesg
+duh | head -n10
+duh ~
+echo $PATH_TO_FX
+em '*'
+file /usr/bin/python3
+file /usr/bin/python3.10
+file pwf
+find * -printf "% %p\n"
+find * -printf "%F %p\n"
+find * -printf "%F"
+find * -printf "%a %p"
+find * -printf "%a %p\n"
+find * -printf "%a"
+find * -printf="%F"
+find -iname "*.sh" | grep EOF
+find -iname "*.sh" | xargs grep EOF
+find -iname "*.sh" | xargs grep EOF | grep usage
+find -iname "*.sh" | xargs grep EOF | less
+find -iname "*.sh" | xref grep EOF
+find -iname "*imdb*"
+find -name jarrun
+find -type -d -iname "*imdb*"
+find -type d -iname "*imdb*"
+find -type f -iname "*search_movie*"
+fm PDF/
+for FFF in $(find * -maxdepth 0 -type d -regex "gd..._.*"); do echo "mv $FFF $(echo $FFF | sed 's/gd/gd_/')"; done
+for FFF in $(find * -maxdepth 0 -type d -regex "gd..._.*"); do mv $FFF $(echo $FFF | sed 's/gd/gd_/'); done
+for FFF in $(find * -maxdepth 0 -type d -regex "jd..._.*"); do echo "mv $FFF $(echo $FFF | sed 's/jd/jd_/')"; done
+for FFF in $(find * -maxdepth 0 -type d -regex "jd..._.*"); do mv $FFF $(echo $FFF | sed 's/jd/jd_/'); done
+for FFF in $(find * -maxdepth 0 -type d -regex "pd..._.*"); do echo "mv $FFF $(echo $FFF | sed 's/pd/pd_/')"; done
+for FFF in $(find * -maxdepth 0 -type d -regex "pd..._.*"); do mv $FFF $(echo $FFF | sed 's/pd/pd_/'); done
+for FFF in *; do echo $FFF; done
+for FFF in *; do echo mv $FFF ${FFF//.sh/}; done
+for FFF in *; do mv -v $FFF ${FFF//.sh/}; done
+for FFF in multiple_return_v*; do echo "sed 's/return_multiple/multiple_return/g' $FFF"; done
+for FFF in multiple_return_v*; do echo "sed -i 's/return_multiple/multiple_return/g' $FFF"; done
+for FFF in multiple_return_v*; do sed -i 's/return_multiple/multiple_return/g' $FFF; done
+for i in $(seq 0 9); do printf "\e[$i;160mBARVE\e[0m -- $i\n"; done
+for i in $(seq 0 9); do printf "\e[$i;31mBARVE\e[0m -- $i\n"; done
+for i in $(seq 0 9); do printf "\e[$i;34mBARVE\e[0m -- $i\n"; done
+for i in $(seq 0 9); do printf "\e[$i;35mBARVE\e[0m -- $i\n"; done
+for i in $(seq 0 9); do printf "\e[$i;36mBARVE\e[0m -- $i\n"; done
+for i in $(seq 0 9); do printf "\e[$i;37mBARVE\e[0m -- $i\n"; done
+git 
+git checkout 89632460373112f708a7c839b7fd4c481dd88b34
+git clone git@github.com/r-gregor/rust_coding.git
+git clone git@github.com:r
+git clone git@github.com:r-gregor/ncurses_testing.git
+git clone git@github.com:r-gregor/rust_coding.git
+git clone git@github.com:r-gregor/rust_testing.git
+git clone https://github.com/tsoding/olive.c.git
+git log
+git push
+git push 
+git push ghct 
+git push ghgt 
+git push ghjt 
+git push ghpt 
+git push ghrst 
+git push glct 
+git push glgt 
+git push gljt 
+git push glpt 
+git push glrst 
+git push origin
+git push origin main
+git remot -v
+git remote add ghgt git@github.com:r-gregor/go_testing.git
+git remote add ghjt git@github.com:r-gregor/java_testing.git
+git remote add ghpt git@github.com:r-gregor/python_testing.git
+git remote add ghrst git@github.com:r-gregor/rust_testing.git
+git remote add origin git@git.github.com:r-gregpr/java_testing.git
+git remote set-url origin git@git.github.com:r-gregor/java_testing.git
+grep -E "http:.*2023.*" ff_jbez0rg_bookmarks_20231006.html 
+grep -r 'request(' ./*
+grep -r 'search_movie(' ./*
+grep -r request ./*
+grep -r toke ./*
+grep -v ADD ff_jbez0rg_bookmarks_20231006.html 
+grep -v ADD ff_jbez0rg_bookmarks_20231006.html | less
+grep 2023100[56] ff_jbez0rg_bookmarks_20231006.html 
+grep 2023100[56] ff_jbez0rg_bookmarks_20231006.html | grep -E 'http.*"
+grep 2023100[56] ff_jbez0rg_bookmarks_20231006.html | grep -E 'http.*"'
+grep 2023100[56] ff_jbez0rg_bookmarks_20231006.html | sed 's/.*\("http.* \).\+/\1/'
+grep 2023100[56] ff_jbez0rg_bookmarks_20231006.html | sed 's/.*\("http.*" \).*/\1/'
+grep 2023100[56] ff_jbez0rg_bookmarks_20231006.html | sed 's/.*\("http.*" \).\+/\1/'
+grep 2023100[56] ff_jbez0rg_bookmarks_20231006.html | sed 's/.*\("http.*"\).*/\1/
+grep 2023100[56] ff_jbez0rg_bookmarks_20231006.html | sed 's/.*\("http.*"\).*/\1/'
+grep 2023100[56] ff_jbez0rg_bookmarks_20231006.html | sed 's/.*\("http.\+ \).\+/\1/'
+grep 2023100[56] ff_jbez0rg_bookmarks_20231006.html | sed 's/.*\("http.\+" \).*/\1/'
+grep 2023100[56] ff_jbez0rg_bookmarks_20231006.html | sed 's/.*\("http.\+" \).\+/\1/'
+grep 2023100[56] ff_jbez0rg_bookmarks_20231006.html | sed 's/.*\("https.+" \).*/\1/'
+grep 2023100[56] ff_jbez0rg_bookmarks_20231006.html | sed 's/.*\("https.\+" \).*/\1/'
+grep 2023100[56] ff_jbez0rg_bookmarks_20231006.html | sed 's/.*\("https.\+" \)ADD.*/\1/'
+grep 2023100[56] ff_jbez0rg_bookmarks_20231006.html | sed 's/.*\("https.\+/" \).*/\1/'
+grep 2023100[56] ff_jbez0rg_bookmarks_20231006.html | sed 's/.*\("https.\+\/" \).*/\1/'
+grep 2023100[56] ff_jbez0rg_bookmarks_20231006.html | sed 's/.*\("https.\S" \).*/\1/'
+grep 2023100[56] ff_jbez0rg_bookmarks_20231006.html | sed 's/.*\("https.\s" \).*/\1/'
+grep 2023100[56] ff_jbez0rg_bookmarks_20231006.html | sed 's/.*\(https.\+\)" ADD.*/\1/'
+grep 2023100[56] ff_jbez0rg_bookmarks_20231006.html | sed 's/.*\(https.\+\)" ADD.*>\(.*\)</A>/\1 \2/'
+grep 2023100[56] ff_jbez0rg_bookmarks_20231006.html | sed 's/.*\(https.\+\)" ADD.*>\(.*\)<\/A>/\1 [\2]/'
+grep 2023100[56] ff_jbez0rg_bookmarks_20231006.html | sed 's/.*\(https.\+\)" ADD.*>\(.*\)<\/A>/\1 \2/'
+grep 2023100[56] ff_jbez0rg_bookmarks_20231006.html | sed 's/.*\(https.\+\)" ADD.*>\(.*\)<\/A>/\1\t\2/'
+grep 2023100[56] ff_jbez0rg_bookmarks_20231006.html | sed 's/.*\(https.\+\)" ADD.*>\(.*\)<\/A>/\1\t\t\2/'
+grep http: ff_jbez0rg_bookmarks_20231006.html 
+grep multiple multiple_return_v*
+grep pwf ./*
+grepc -r ' 25 ' ./*
+grepc -r '25 ' ./*
+grepc -r 'request(' ./*
+grepc -r 'request(' ./* | less
+grepc -r 'search_movie(' ./* | less
+grepc -r get ./* 
+grepc -r get ./* | less
+grepc -r get ./* | less -Xr
+grepc java ./* | less
+hexedit fruits.bin 
+history | grepc get
+l | clm
+less
+less pdtk_20220418.txt 
+less requirements.txt 
+ln -s ~/Dropbox/ODPRTO/_C_and_Cpp ~/_DBOC
+ln -s ~/Dropbox/SKUPNI ~/SKUPNI_drpbx
+ln -s ~/majstaf/coding/JAVA_d/JAVA_d_testing ~/_java_d_testing
+ln -s ~/majstaf/coding/PYTHON_d/PYTHON_d_testing ~/_python_d_testing
+ln -snf ~/majstaf/coding2/testing/c_testing ~/_c_testing 
+ln -snf ~/majstaf/coding2/testing/java_testing ~/_java_testing 
+ln -snf ~/majstaf/coding2/testing/python_testing ~/_python_testing 
+ln -snf ~/majstaf/coding2/testing/rust_testing ~/_rust_testing 
+ln -snf ~/majstaf/majbin/jarrun ~/.local/bin/jarrun
+ln -snf ~/majstaf/majbin/jarxrun ~/.local/bin/jarxrun 
+ln -snf ~/majstaf/majbin/jrun ~/.local/bin/jrun 
+ln -snf ~/majstaf/majbin/jvfx-compile ~/.local/bin/jvfx_compile 
+ln -snf ~/majstaf/majbin/jvfx-run ~/.local/bin/jvfx_run
+ln snf ~/majstaf/coding2/testing/c_testing ./_c_testing 
+ln snf ~/majstaf/coding2/testing/c_testing/ _c_testing 
+ln snf ~/majstaf/coding2/testing/c_testing/ ~/_c_testing 
+lynxd https://copyprogramming.com/howto/how-to-serialize-a-struct-in-c c_howto-serialize-a-struct
+majstaf/coding/
+mc c{d,n}101_test_hex_to_bin_h_20230418/
+mkdir -p majstaf/BRISI
+mkdir -p majstaf/SLIKE/Slike_2023-04-05/Apulia_2023/Apulia_T
+mkdir -p ~/majstaf/coding/majnjujava
+mkdir Apulia_2023
+mkdir Apulia_G
+mkdir Slike_2023-04-05
+mkdir __OLD
+mkdir _ostalo
+mkdir c_bitmasking1_OR-ing_AND-ing_20230415
+mkdir imdb_20230806
+mkdir scrirpts
+mv DRPBX_ODPRT ODPRTO_drpbx
+mv OSTALO_gd/ gd_OSTALO
+mv OSTALO_jd/ jd_OSTALO
+mv UNSORTED_jd/ jd_UNSORTED
+mv c_bitmasking{1,}_OR-ing_AND-ing_20230415/
+mv c{,d999}_bitmasking_OR-ing_AND-ing_20230415/
+mv c{d,n}101_test_hex_to_bin_h_20230418/
+mv c{n,d}101_test_hex_to_bin_h_20230418/
+mv find_links_with_timestamp.txt ffbookmarks_find_links_by_timestamp_20231006.txt
+mv find_links_with_timestamp_v2.sh ffbookmarks_find_links_by_timestamp_v2.sh 
+mv imdb_20230806 pd_999_imdb_20230806
+mv jvfx-compile jvfx_compile 
+mv jvfx-run jvfx_run 
+mv serialize.h serialize_v2.h
+mv {,_}ODPRTO_drpbx
+mv {,_}SKUPNI_drpbx
+p3 -m pip list imdb
+p3 -m pip list | clm
+p3 -m pip show imdb
+pef
+pip help | grep requ
+prepare-fjl-for-knowledgebase-d c_howto-serialize-a-struct_20230925.txt 
+python a1_imdb_search_movies.py "Conan"
+python a2_imdb_get_movie.py 
+python a2_imdb_get_movie.py 0082198
+python a2_imdb_get_movie.py 6791350
+python a2_imdb_get_movie.py tt6791350
+python movies.py
+python movies_v2.py 
+python movies_v3.py 
+qw¸
+reboot
+rsort-by-tmstmp_c | head | clm
+rsort-by-tmstmp_c ~/_ODPRTO_drpbx/_GO/ | head
+rsort-by-tmstmp_c ~/_ODPRTO_drpbx/_JAVA/ | head
+rsort-by-tmstmp_c ~/_ODPRTO_drpbx/_PYTHON/ | head
+s2 "$A1" "$A2"
+sed 's/==.*//' requirements.txt
+sed 's/==.*//' requirements.txt > requirements_no-versons.txt
+sed 's/return_multiple/multiple_return/g' multiple_return_v1.c | grep multiple
+sed 's/return_multiple/multiple_return/g' multiple_return_v1.c | less
+softlink1-fname-to-ulb b-find-lnx-executables 
+softlink1-fname-to-ulb b-find-win-executables 
+softlink1-fname-to-ulb listulb 
+softlink1-fname-to-ulb rsort-by-tmstmp_c 
+softlink1-fname-to-ulb ~/majstaf/majbin/c_sizes 
+softlink1-fname-to-ulb ~/majstaf/majbin/contains
+softlink1-fname-to-ulb ~/majstaf/majbin/lynxdump/lynxd 
+softlink1-fname-to-ulb ~/majstaf/majbin/prepare-fjl-for-knowledgebase-d 
+softlink1-fname-to-ulb ~/majstaf/majbin/send_mail/send-2args-d 
+softlink1-fname-to-ulb ~/majstaf/majbin/valgrind-test 
+sudo add-apt-repository ppa:xtradeb/apps -y
+sudo apt autoremove 
+sudo apt search chromium
+sudo apt search chromium | grep chrom
+sudo apt search chromium-browser
+sudo chown zed: /home/zed/for*
+sudo cp /usr/local/bin/send-2args-d /usr/local/bin/s2
+sudo cp for_Zed_20230613.txt /home/zed/
+sudo dmesg
+sudo dmesg | grep -C 3 -i error
+sudo dmesg | grep -i error
+systemctl poweroff
+time ./rsort-by-enddate_g ~/_ODPRTO_drpbx/_C_and_Cpp/
+time ./rsort-by-tmstmp_c ~/_ODPRTO_drpbx/_C_and_Cpp/
+tput smam
+type  db1
+type /usr/bin/python3
+type /usr/bin/python3.10
+type db0
+type python
+type wrapoff
+type wrapon
+type wrappoff
+uctgCŽ
+un-mount_dev_sd
+updts
+valgrind-test bin/struct_in_func_2 
+valgrind-test bin/test_hex_to_bin32 11223344
+valgrind-test bin/test_hex_to_bin32 1122334455
+valgrind-test bin/test_hex_to_bin64 aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+vin ffbookmarks_find_links_by_timestamp_
+vin ffbookmarks_find_links_by_timestamp_v2.sh 
+vmf_e
+wc -l fruits.bin 
+which pwf
+which python
+which python3
+which python3.10
+wrapoff
+wrapoff 
+wrapon
+xclip
+yt-dlp -f18 "https://www.youtube.com/watch?v=EngW7tLk6R8"
+z
+~/majstaf/majbin/duh
+~/majstaf/majbin/duh | head
+~/majstaf/majbin/python_venv_and_pip_setup/venv_s1_makevenv 
+~/majstaf/majbin/valgrind-test bin/struct_in_func_2 
+./color10bit 
+./print256colours 
+./retreive_structs_from_file_v5 
+./serialize_array_of_structs_v10 
+./substring_recursive_test_v5.py 
+:wq
+Package: *
+Pin-Priority: 1001
+bin/array_of_structs_serialization_v4 
+bin/array_of_structs_serialization_v4 | clm
+bin/array_of_structs_serialization_v4 | cln
+bin/array_of_structs_serialization_v4 | less
+bin/countdown_timer_v3 15
+bin/function-ptr-example_1 
+bin/function-ptr-example_2
+bin/function-ptr-example_2 
+bin/multiple_return_v4
+bin/offsetof_test_v3
+bin/single_struct_serialization_test_v1 
+bin/t2_sbrk_test_v2 
+bin/t3_mmap_test_v1 
+bin/t3_mmap_test_v2
+cat Manifest.txt 
+cat Manifest2.txt 
+cat Manifest3.txt 
+cat sizes.txt 
+cat ~/.SCRTS 
+chmod 644 *.sh
+chmod 755 color10bit print256colours 
+chmod 755 majstaf/majbin/pwf 
+chnod 755 *.sh
+color10bit 
+cp -r cn09[67]* ~/C_d_testing/
+cp color10bit print256colours ~/majstaf/majbin/
+cp retreive_structs_from_file_v5.c serialize_array_of_structs_v10.c src/
+cp src/t3_mmap_test_v1.c .
+c{n,d}097_vector_operations_optimizations_20230405/
+diff -q C_d_testing/ ~/Dropbox/ODPRTO/MCDN_en/coding/C_Cpp_en/c_en_testing/
+diff -q C_d_testing/ ~/Dropbox/ODPRTO/MCDN_en/coding/C_Cpp_en/c_en_testing/ | grep MCDN_en
+diff -q majstaf/majbin ~/Dropbox/ODPRTO/MCDN/majbin_d
+diff -q majstaf/majbin ~/Dropbox/ODPRTO/MCDN/majbin_d | grep -v Common
+diff -q majstaf/majbin ~/Dropbox/ODPRTO/MCDN/majbin_d | grep .v Common
+diff -q ~/majstaf/majbin ~/Dropbox/ODPRTO/MCDN/majbin_d | grep -v Common
+diff /home/rgregor/majstaf/majbin/bekap1-d-lh /home/rgregor/Dropbox/ODPRTO/MCDN/majbin_d/bekap1-d-lh
+diff /home/rgregor/majstaf/majbin/bekap3-d-db-lh /home/rgregor/Dropbox/ODPRTO/MCDN/majbin_d/bekap3-d-db-lh
+diff /home/rgregor/majstaf/majbin/ff /home/rgregor/Dropbox/ODPRTO/MCDN/majbin_d/ff
+diff C_d_testing/ ~/Dropbox/ODPRTO/MCDN_en/coding/C_Cpp_en/c_en_testing/
+diff majstaf/majbin ~/Dropbox/ODPRTO/MCDN/majbin_d
+diff majstaf/majbin/bekap1-d-lh /home/rgregor/Dropbox/ODPRTO/MCDN/majbin_d/bekap1-d-lh
+dirlist1
+dirlist_abs
+dirlist_abs_sort
+dirlist_abs_sort | grep "$/"
+echo $PYTHONPATH
+echo '
+ffn c_structures_codesdope_20230828.txt 
+find * -maxdepth 1 -type f
+find -maxdepth 0 -type f
+find -maxdepth 1 -type f
+find -type d -name test
+find -type d -name tests
+find -type f -name "*jarrun*"
+find -type f -name "offset*"
+for DDD in $(dirlist_abs_sort | clm); do find -type d $DDD; done
+for DDD in $(dirlist_abs_sort); do stat $DDD | grep 'directory'; done
+for FFF in $(find * -maxdepth 0 -type f); do echo $FFF; done
+for FFF in $(find * -maxdepth 0 -type f); do softlink1-fname-to-ulb $FFF; done
+for FFF in $(find * -maxdepth 0 -type f); doe echo $FFF; done
+for FFF in Manifest*; do echo -e "$FFF\n---\n$(cat $FFF)\n--------------------\n"; done
+for FFF in color10bit print256colours ; do cp -v $FFF ~/majstaf/src_majbin/00_ukazi_d/${FFF}.sh
+for FFF in color10bit print256colours ; do cp -v $FFF ~/majstaf/src_majbin/00_ukazi_d/${FFF}.sh, done
+for FFF in color10bit print256colours ; do cp -v $FFF ~/majstaf/src_majbin/00_ukazi_d/${FFF}.sh; done
+for FFF in color10bit print256colours ;do softlink1-fname-to-ulb $FFF; done
+grep pwf ~/majstaf/majrcs/aliases_jbez0rg
+jar -t MoviesDatabase3.jar 
+jar -tf MoviesDatabase.jar 
+jar -tf MoviesDatabase2.jar 
+jar -tf MoviesDatabase3.jar 
+jar -tvf MoviesDatabase3.jar 
+jarrun 
+jarrun MoviesDatabase
+jarrun MoviesDatabase.jar 
+jarrun MoviesDatabase.jar | less
+jarrun MoviesDatabase2.jar | less
+jarrun MoviesDatabase3.jar 
+jarrun MoviesDatabase3.jar | less
+jarrun jars/MoviesDatabase4.jar 
+jarrun jars/MoviesDatabase_.jar 
+jarrun jars/MoviesDatabase_.jar | less
+java -cp .:lib/sqlite-jdbc-3.34.0.jar MoviesDatabase3
+java -cp .:lib/sqlite-jdbc-3.34.0.jar MoviesDatabase3 | less
+l C_d_testing
+l DRPBX_ODPRT/
+l DRPBX_ODPRT/MCDN_en/coding/C_Cpp_en/c_en_testing/
+listulb | grep w
+ln -s ~/.local/bin/yt-dlp /usr/local/bin/
+ln -s ~/Dropbox/ODPRTO/ ~/DRPBX_ODPRT
+ln -s ~/majstaf/coding2/testing/ncurses_testing ~/_ncurses_testing
+lynxd 
+m *.sh scrirpts/
+mkdir imdb_20230805
+mv *.sh scrirpts/
+mv ct_106_return-multiple-vars-from-function_20230605{_02-en,}
+mv ct_114_struct-internal-offset_20230921{_04d,}
+mv ct_115_offsetof_test_20230921{_01d,}
+mv c{n,d}096_function-pointer-exmples_20230403/
+mv c{n,d}097_vector_operations_optimizations_20230405/
+mv gpd{,.sh}
+mv majnjujava/ JAVA_d/
+mv majnjujava/ JAVA_d_scripts
+mv t2_sbrk_test_v2.c src/
+pip freeze > requirements.txt
+print256colours 
+ps aux
+ps aux | grep snap
+python
+python test.py 
+rsort-by-tmstmp_c .
+rsort-by-tmstmp_c . | head
+rsort-by-tmstmp_c ../_PYTHON/ | head
+rsort-by-tmstmp_c | head
+rsort-by-tmstmp_c ~/_ODPRTO_drpbx/_C_and_Cpp/
+rsort-by-tmstmp_c ~/_ODPRTO_drpbx/_C_and_Cpp/ | head
+snap list
+softlink1-fname-to-ulb gpd 
+softlink1-fname-to-ulb pwf 
+source venv/bin/activate
+sqlitebrowser .
+sqlitebrowser KRZMovies.db 
+sudo apt autoremove --purge snapd
+sudo ln -s ~/.local/bin/yt-dlp /usr/local/bin/
+sudo snap list
+sudo snap remove snap-store
+sudo systemctl disable snapd.seeded.service
+sudo systemctl disable snapd.service
+sudo systemctl disable snapd.socket
+tar -tvf MoviesDatabase3.jar 
+tree -d
+treee
+type dl
+type jar
+valgrind-test bin/array_of_structs_serialization_v4 
+watch -d -n1 "dropbox status"
+watch -d -n1 dropbox status
+y
+ydlF
+./build
+./compile_and_run.sh 
+./ffn 
+./ffn.sh 
+./fsort_files | cat -n | clm
+./fsort_files | clm
+./fsort_files | clm | cat -n
+./fsort_files | clmn
+./fsort_files | less
+/usr/bin/firefox 
+/usr/local/bin/ffn
+TREE
+URL="https://www.geeksforgeeks.org/read-write-structure-from-to-a-file-in-c/"
+alias | grep ydl
+b-find-lnx-executables
+b-find-lnx-executables | gep 'bin/'
+b-find-lnx-executables | grep 'bin/'
+b-find-lnx-executables | grep 'bin/' | less
+b-find-lnx-executables | grep --color 'bin/'
+bin/array_vs_and-array_v2
+bin/commentout_vs_sharpif 
+bin/dirlist_rv_abs4 
+bin/modes_test 
+bin/modes_test -h
+bin/modes_test -h gg
+bin/modes_test -h gg -m OFF On oN ON
+bin/modes_test gg -m  ON On oN  -h
+bin/modes_test gg -m OFF On oN ON -h
+bin/modes_test gg -m ON On oN  -h
+bin/modes_test gg -mON On oN  -h
+bin/reversed 
+bin/struct_internal_offset_v3 | less
+bin/struct_serialization_v1 
+bin/t1_heap_test_v1 
+bin/t2_sbrk_test_v3 
+bin/t3_mmap_test_v2 
+cago run
+cargo --version
+cargon TEST2
+cat .SCRTS 
+cat people.*
+cat people.json 
+cat ~/_BRISI/TEST.txt
+chmod 755 *.sh
+chmod 755 compile_and_run.sh 
+contains "https://itecnote.com/tecnote/r-how-to-serialize-a-struct-in-c/"
+contains "https://stackoverflow.com/questions/4368677/writing-an-array-of-structs-to-a-binary-file-in-c"
+contains $URL
+contains https://stackoverflow.com/questions/4368677/writing-an-array-of-structs-to-a-binary-file-in-c
+cp -r metsys_jbez0rg/ ~/Dropbox/ODPRTO/from_jbez0rg/
+cp -r send_mail_scrts ../../
+cp -r send_mail_scrts ~/majstaf/majbin/
+cp -r ~/Dropbox/ODPRTO/MCDN_d/coding/RUST_d/rust_d_testing/rsd_* .
+cp -r ~/Dropbox/ODPRTO/MCDN_en/coding/C_Cpp_en/c_en_testing/cn093_modes_test_20230322/ .
+cp -r ~/Dropbox/ODPRTO/MCDN_en/coding/C_Cpp_en/c_en_testing/cn09[789]* .
+cp -rn ODPRTO/MCDN_d/coding/C_Cpp_d/c_d_testing/* ~/majstaf/coding/C_Cpp_d/c_d_testing/
+cp .SCRTS ~/
+cp /home/rgregor/Dropbox/ODPRTO/MCDN_d/majbin/ffn ~/majstaf/majbin/
+cp 00_ukazi/ffn.sh ../majbin/
+dropbox 
+du -sh olive.c/
+duh | clm
+echo "TEST 20231005 from d" >> ~/_BRISI/TEST.txt 
+echo $TERM
+file /local/bin/ffn
+file /usr/local/bin/ffn
+file /usr/local/bin/ffn 
+find -type f -name "dirlist*"
+for FFF in *; do softlink1-fname-to-ulb $FFF; done
+for i in $(seq 0 9); do printf "\e[$i;32mBARVE\e[0m -- $i\n"; done
+for i in $(seq 0 9); do printf "\e[$i;33mBARVE\e[0m -- $i\n"; done
+git clone https://github.com/r-gregor/c_testing.git
+git clone https://github.com/r-gregor/en_metsys.git
+git clone https://github.com/r-gregor/java_testing.git
+git clone https://github.com/yeyushengfan258/We10X-icon-theme.git
+git remote add ghnct git@github.com:r-gregor/ncurses_testing.git
+grep '-dl' ./*
+grep '\-dl' ./*
+grep -C 5 TERM .bashrc 
+grep -i TERM
+grep -i TERM *
+grep -r "imdb.com" *
+grep -r alias ./*
+grep -r pwf ./*
+grep TERM .bashrc 
+grep alias ./*
+grepc -r "imdb.com" *
+gtk-update-icon-cache ~/.icons/BeautyLine/
+jdlF "https://www.youtube.com/watch?v=EngW7tLk6R8"
+jobs
+l -X
+l -v
+l | grep dirl
+l ~/Dropbox/ODPRTO
+less youtube-dl_update-move-to_yt-dlp_20230413.txt 
+listulb | grep --color dirlist
+ln -s ~/Dropbox/ODPRTO/MCDN_en ~/_MCDN_en
+ln -s ~/Dropbox/ODPRTO/_JAVA/ ~/_DBOJ
+ln -s ~/Dropbox/ODPRTO/_PYTHON ~/_DBOP
+ln -s ~/majstaf/coding/C_Cpp_d/c_d_testing/ ~/C_d_testing
+locate Thunar.svg
+logoff
+majstaf/coding/C_Cpp_d/
+mc c{n,d}098_reversed_20230412/
+mkdir "New-Build-System-in-C_20240106"
+mkdir -p coding2/testing
+mkdir -p majstaf/PREBERI
+mkdir 20231005
+mkdir sorsi
+mv C_d_testing _c_d_testing
+mv TEST2 test2
+mv c{n,d}093_modes_test_20230322/
+mv c{n,d}098_reversed_20230412/
+mv c{n,d}099_bitmasking_20230414/
+mv rsd_00{2,11}_testing-02_20230708/
+mv youtube-dl_update-move-to_yt-dlp_20230413.txt ~/majstaf/metsys_jbez0rg/
+mv {,_}BRISI
+nmcli device wifi show-password
+pip help
+pip help update
+pip help upgrade
+pip help | grep -i update
+pip help | grep -i upgrade
+pip help | grep upgrade
+python a1_imdb_search_movies.py 
+python a1_imdb_search_movies.py conan
+rustc --version
+softlin ffn
+softlink1-fname-to-ulb ./ffn
+softlink1-fname-to-ulb ffn
+softlink1-fname-to-ulb ~/majstaf/majbin/duh
+su rgregor
+sudo apt clean
+sudo apt searc kodi
+sudo apt search kodi
+sudo apt search kodi | less
+sudo chown zed: /home/zed/for_Zed_20230613.txt
+sudo cp -r ~/.icons/BeautyLine /usr/share/icons/
+sudo cp -r ~/.icons/candy-icons/ /usr/share/iconss
+sudo cp modarin256-defbg-thin.ini{,_original} 
+sudo dmesg | grep -i 'x.509'
+sudo dmesg | grep -i integrity
+sudo gtk-update-icon-cache --force ~/.icons/BeautyLine
+sudo gtk-update-icon-cache ~/.icons/BeautyLine/
+sudo hostnamectl set-hostname jbez0rg
+sudo pip list
+sudo pip list | grep yt
+sudo pip upgrade yt-dlp
+sudo systemctl poweroff -i
+sudo umount -v /media/rgregor/B1_*
+touch ~/_BRISI/TEST.txt
+type /local/bin/ffn
+type clm
+type ffn
+type pwf
+type ydl
+type ydlf
+type yt-dlp
+venv_s0_mkvnv_inst 
+watch -n1 dropbox status
+which un-mount_dev_sdbs 
+which ydl
+ydl -f18 "https://www.youtube.com/watch?v=n47AFxc1ksE"
+ydl -f22 "https://www.youtube.com/watch?v=n47AFxc1ksE"
+ydlF "https://www.youtube.com/watch?v=n47AFxc1ksE"
+ydlF "https://www.youtube.com/watch?v=n47AFxc1ksE&t=5208s"
+yt-dlp -F "https://www.youtube.com/watch?v=EngW7tLk6R8"
+yt-dlp -f22 "https://www.youtube.com/watch?v=EngW7tLk6R8"
+~/majstaf/majbin/send_mail/send-2args-d "$A1" "$A2"
+./build_and_run_japan.sh 
+./build_and_run_main.sh 
+./build_and_run_wang.sh 
+./clean_bin.sh 
+./nobuild 
+bin/func_pointers_test3 
+bin/struct_internal_offset_v3 
+bin/struct_region_offset_v6 
+bin/test_hex_to_bin32 
+bin/ubuild 
+bin/uconcat 
+bin/wang 
+cp .gitignore ../java_testing/
+cp /usr/share/doc/kitty/examples/kitty.conf .
+diff -q ~/majstaf/majbin/ . | grep Only
+diff -q ~/majstaf/majbin/ . | grep Only | grep '.:'
+diff -q ~/majstaf/majbin/ . | grep Only | grep ':'
+diff -q ~/majstaf/majbin/ . | grep Only | grep '\:'
+diff -q ~/majstaf/majbin/ . | grepc Only
+diff -q ~/majstaf/majbin/ . | grepc Only | grep ':'
+diff -q ~/majstaf/majbin/ . | grepc Only | grep :
+diff -q ~/majstaf/majbin/ d_metsys/majbin_d/
+diff -q ~/majstaf/majbin/ d_metsys/majbin_d/ | grepc Only
+dirlist
+dirlist_abs_sort 
+dirlist_abs_sort | clm
+dmenu_run
+dmenu_run &
+dpg
+duh backup_jbez0rg/
+dvol
+git add .gitignore
+grep -i cmake transscript.txt 
+ip addr show
+java StDelovnihUr_V6 
+java StDelovnihUr_V6 februar 4
+kitty
+ln -s ~/majstaf/BRISI/ ~/BRISI
+mc
+mkdir _newcomers
+mkdir from_muadib
+mount | grep media
+mv dkdb* from_muadib/
+mv dmts* from_muadib/
+mv dvol* from_muadib/
+mv un{ed,de}rscores-to-hypens-d 
+python movies_v4.py 
+source ./venv/bin/activate
+sudo apt search fonts
+sudo apt search fonts | grep -i awesome
+sudo apt search fonts | grep -i nerd
+sudo apt search fonts | grep font | less
+sudo apt search fonts | less
+sudo apt search iosevka
+sudo apt search ttf
+sudo apt search ttf | grep font
+sudo apt search ttf | grep font | less
+sudo arp-scan 192.168.64.184/24
+systemctl poweroff -i
+touch "en fajl z <oqiubfouqhrb> in [iui,iibfif:hhhh] (2002) liwfib - trh.mp4"
+tree --color | clm
+tree root/
+tree | clm
+type /usr/bin/firefox 
+type ff
+venv_s1_makevenv 
+venv_s3_remove_venv 
+wc -l nobuild.h
+wc -l ubuild.h 
+yt-dlp 
+./DRYRUN-rsync-jbez0rg_SEAGATE_1-5Tb 
+./aoc-d2-p2_V2.py 
+./aoc-d2-p2_V3.py 
+./build_and_run.sh 
+./build_main.sh 
+./st-0.8.4_Nord/
+./st-0.8.4_Nord/st 
+/usr/share/fonts
+bin/bitmasking5 
+bin/main 
+bin/rectangle_info 
+bin/rectangle_info | clm
+bin/retreive_structs_from_file_v5 | clm
+bin/retreive_structs_from_file_v5 | less
+bin/serialize_array_of_structs_v10 
+bin/shift_test 
+bin/shift_test AA BB CC 1 2 3 4 5 6 7 8 9 10 1024 4096 "King Kong!"
+bin/sizes 
+c plugged/
+cat $CDPATH 
+cat /media/rgregor/1545-AB81/majmedia/Movies
+cat known_hosts 
+cat videodb.xml 
+chmod 755 ./build_main.sh 
+cp -i /media/rgregor/B1_2_EXT4/backup_muadib/home/rgregor/.config/kitty/kitty.conf .
+cp -irn kitty-themes/ theme.conf 
+cp -irn kitty-themes/ theme.conf ~/.config/kitty/
+cp -nv ./* ~/majstaf/majvolpejpers/majvolpejpers_bob2/
+cp -r /media/rgregor/B1_2_EXT4/backup_muadib/home/rgregor/majstaf/majrcs/ ~/majstaf/
+cp -rn /media/rgregor/1297-1DD1/dot_ssh/* .
+cp /media/rgregor/B1_2_EXT4/backup_muadib/home/rgregor/.config/ranger/rc.conf .
+cp /usr/share/doc/ranger/config/rc.conf.gz .
+cp kitty.conf{,.ORIGINAL}
+cp ~/Downloads/Miya.tar.xz ~/.icons/
+cp ~/majstaf/majmedia/deletions_20240113.txt /media/rgregor/1545-AB81/majmedia/
+dirlist_abs_sort | grep "/"
+dirlist_abs_sort | grep "\$/"
+doublecmd &
+du -sh Dropbox/
+du -sh backup_jbez0rg/
+duh kodi_videodb_2024-01-14
+duh kodi_videodb_2024-01-14/
+echo $CDPATH
+echo $CDPATH 
+find * -maxdepth 0
+find * -maxdepth 0 -type f | xargs -I{} mv {} ../Seivom/
+find * -maxdepth 0 type f
+find -iname "*iosevka*"
+find -name "*un-mou*"
+find -name "un-mou*"
+find -name ff
+find -type f -iname "*sub*"
+for FFF in $(find ${path} -type f); do file $FFF |  /usr/bin/grep --color 'ELF' | cut -d':' -f1; done
+for FFF in $(find ${path} -type f); do file $FFF |  /usr/bin/grep --color 'ELF'; done | cut -d' ' -f1
+for FFF in $(find ${path} -type f); do file $FFF |  /usr/bin/grep --color 'ELF'; done | cut -d':' -f1
+fzf --version
+git add remote ghct git@github.com:r-gregor/c_testing.git
+git clone https://github.com/r-gregor/go_testing.git
+git clone https://github.com/r-gregor/python_testing.git
+git remote add ghct git@github.com:r-gregor/c_testing.git
+less people.dat 
+less videodb.xml
+less videodb.xml 
+locate un-mount
+locate un-mount_dev_sdcs
+mkdir ../Seivom
+mkdir dolpotegi
+mkdir git
+mkdir home
+mkdir majstaf
+mkdir njuVolPejprs_20230405
+mkdir njuVolPejprs_d_20230405
+mkdir ~/.icons
+mkdir ~/.themes
+mkdir ~/majstaf/seznami
+mv Zootopia*avi "Zootopia (SLO) (2016)"/
+mv Zootopia*nfo "Zootopia (SLO) (2016)"/
+mv backup_hp-probook4730{,s}
+mv serialize_v1.h src/
+ranger
+ranger 
+softlink1-fname-to-ulb ~/majstaf/majbin/ff
+stat .ssh
+stat known_hosts
+strings bin/structs_array.bin 
+sudo apr update
+sudo apt search double
+sudo apt search double | grep cmd
+sudo chown -R zed: ./*
+sudo cp -rn /media/rgregor/B1_2_EXT4/backup_muadib/home/rgregor/majstaf/majvolpejpers/* ~/majstaf/majvolpejpers/
+sudo cp -rv .fonts/ ~/
+sudo fc-cache -f -v
+sudo find -name "*un-mou*"
+sudo ln -s ~/majstaf/majbin/softlink1-fname-to-ulb /usr/local/bin/
+sudo snap remove firefox
+type un-mount_dev_sdcs
+unzip rc.cong.gz
+which kitty
+which un-mount_dev_sdcs
+ydl -f 22 "https://www.youtube.com/watch?v=DaNn7yKogIY"
+ydl -f22 "https://www.youtube.com/watch?v=Op7hStXud4s"
+ydlF "https://www.youtube.com/watch?v=DaNn7yKogIY"
+ydlF "https://www.youtube.com/watch?v=NtEZ9MkxYlk"
+ydlF "https://www.youtube.com/watch?v=Op7hStXud4s"
+./build.sh 
+bin/sas2_retreive_structs_from_file_v6 | clm
+bin/struct_region_offset_v4 
+d d_V1/
+deactivate 
+dropbox stop
+ffs
+grep firefox ./*
+less GREGS_NOTES.txt 
+locate firefox
+p3 test_main
+p3 test_main.py 
+p3 test_mainv2.py 
+sqlitebrowser 
+su zed
+sudo apt-get update
+type firefox
+./DRYRUN-rsync-jbez0rg_WD_5Tb 
+./RUN-rsync-jbez0rg_WD_5Tb 
+/media/rgregor/B1_2_EXT4/DRYRUN-rsync-jbez0rg_SEAGATE_1-5Tb 
+3051 * 11
+BrthReminder_c 
+bin/array_vs_and-array_v2 
+bin/constructing_longint_OR-ing_hexnum 
+bin/retreive_structs_from_file_v5 
+chmod 600 *
+cp DRYRUN-rsync-jbez0rg_WD_5Tb RUN-rsync-jbez0rg_WD_5Tb 
+cp DRYRUN-rsync-muadib_WD_5Tb DRYRUN-rsync-jbez0rg_WD_5Tb 
+file bin/array_vs_and-array_v1
+find -iname Thunar
+find -iname thunar
+find -name "*.h"
+find -type d -iname "*Thunar*"
+find -type d -iname "*file*"
+find -type d -iname "*thunar*"
+find -type d -iname Thunar
+find -type d -iname home
+find -type d -iname thunar
+find -type d | less
+find -type f -iname "* *"
+find -type f | less
+git config --global user.email "gredelonghi@gmail.com"
+git config --global user.name rgregor
+git push ghct main
+git push ghnct 
+git push glnct 
+git remote -v
+kk
+listulb | grep send
+mkdir -p backup_jbez0rg/home
+mkdir src_majbin
+mousepad /usr/local/bin/b-find-lnx-executables
+p3 test.py 
+rofi -show drun
+rofi -show run
+softlink1-fname-to-ulb b-find-lnx-executables.sh 
+softlink1-fname-to-ulb b-find-win-executables.sh 
+stat bin/array_vs_and-array_v1
+sudo rsync -av /home/rgregor/Dropbox/ODPRTO/MCDN_d/coding/C_Cpp_d/c_d_testing/ /home/rgregor/C_d_testing/
+sudo umount -v /media/rgregor/SanDisk_16G 
+sudo umount -v /media/rgregor/SanDisk_32G 
+tree -d backup_jbez0rg/
+tree -d backup_muadib/
+type bin/array_vs_and-array_v1
+type ydlF
+ydl -f22 "https://www.youtube.com/watch?v=EngW7tLk6R8"
+bin/sas1_serialize_array_of_structs_v11 
+bin/sas2_retreive_structs_from_file_v6 
+cat README.md 
+dropbox start
+fm imgs/
+tree | less
+./Build_And_Run.sh 
+bin/eulers_prime_generating_polynomial 
+bin/isprimefuncwithargument 
+bin/isprimefuncwithargument 203
+bin/isprimefuncwithargument 207
+bin/isprimefuncwithargument 211
+bin/isprimefuncwithargument 217
+bin/isprimefuncwithargument 219
+bin/offsetof_test_v2 
+bin/run 
+bin/struct_region_offset_v6
+bin/struct_region_offset_v6 | less
+bin/test_is_prime_func 
+cp -i /usr/local/bin/b-find-lnx-executables ~/majstaf/coding/00_ukazi/b-find-lnx-executables.sh 
+ct_110_struct_region_pointer_offset_test_20230828/
+duh | head
+javac *.java
+listulb
+mkdir 20240107_Tsoding_bm
+owf
+sudo dmesg | grepc -i err
+sudo dmesg | grepc error
+sudo dmesg | less
+sudo hostname
+sudo hostname jbez0rg
+tmux
+type un-mount_dev_sdbs 
+bin/array_vs_and-array_v1 
+bin/c_strncpy-function-test | less
+bin/shift_test AAA BBB CCC DDD 1234567890 "KingKong"
+bin/struct_region_offset_v7 
+cargo clean
+cargo run
+cat .SCRTS
+cat .sudo_as_admin_successful 
+d -
+echo "(12 * 16) + 12" | bc -l
+file /usr/bin/firefox 
+find * -maxdepth -type f
+find * -maxdepth 0 -type f ! -name "*avi" ! -name "*nfo"
+find * -maxdepth 0 -type f ! -name "*avi" ! -name "*nfo" | xargs -I{} mv -v {} ../Seivom/
+find -group rgregor
+find -group root
+find -user root
+for FFF in $(find ${path} -type f); do file $FFF |  /usr/bin/grep --color 'ELF'
+majstaf/majbin/send_mail_scrts/send-1url-d ~/Downloads/Efivars_OneTab_d_20240118.html 
+mkdir "Zootopia (SLO) (2016)"
+mkdir Seivom
+mkdir backup_jbez0rg
+mkdir bin
+mount | grep sd
+mv 20221012/ 2023* ../Seivom/
+mv _* ../Seivom/
+mv backup-hp-probook4730s backup_hp-probook4730_STARO
+mv backup_hp-probook4730_STARO/ backup_hp-STARO
+mv backup_jbez0rg backup_hp-probook4730
+p3
+python3
+sudo apt search chrome | grep chrome
+sudo apt search google
+sudo apt search google | grep chrome
+sudo chown -R rgregor .fonts/
+sudo chown -R rgregor: .fonts/
+sudo chown -R rgregor: majstaf
+sudo efibootmgr -v
+sudo umount /dev/sda*
+uname -r
+ydlF "https://www.youtube.com/watch?v=EngW7tLk6R8"
+dboc
+snap
+b-find-win-executables 
+duh d_metsys
+duh d_metsys/
+for FFF in $(find ${path} -type f); do file $FFF |  /usr/bin/grep --color 'ELF'; done
+hostname
+listulb 
+find * -maxdepth 0 -type f
+:q
+LL
+bin/custom_string_type_test_v5 
+find -iname "*file*"
+find -iname "*thunar*"
+find -iname "thunar*"
+for FFF in gpd*; do echo $FFF; done
+for FFF in gpd*; do softlink1-fname-to-ulb $FFF; done
+git add .
+gpdtestpush 
+grep footer_bar
+pwd
+sudo apt --dist upgrade
+sudo apt dist-upgrade 
+sudo apt update && sudo apt upgrade -y
+sudo updatedb
+tree bin
+which firefox
+less C_d_en_testing_difs_20230317.txt 
+./BrthReminder 
+apt-cache search highlight
+apt-cache search highlight | grep --color ^highlight
+apt-cache search highlight | grep --color highlight
+b-find-lnx-executables 
+bin/custom_string_type_test_v4
+ccat
+ff
+git remote
+grep footer_bar *
+mv Movies/fmeo .
+mv fmeo/ .fmeo
+r
+type gpd
+xrandr
+history
+mamke
+git clone https://github.com/tsoding/bm.git
+grep -r ARENA
+less README.md 
+ydl -f 22 "https://www.youtube.com/watch?v=NtEZ9MkxYlk"
+./RUN-rsync-jbez0rg_SEAGATE_1-5Tb 
+dbs
+dropbox status
+ffn
+bin/rand_char_position_test_v5 
+cp google-chrome-stable_current_amd64.deb dropbox_2020.03.04_amd64.deb ~/Downloads/
+dmts status
+google-chrome &
+mv Zootopia.2016.SLOSiNH.BRRip.XviD-DrSi.* Zootopia\ \(SLO\)\ \(2016\)/
+un-mount_dev_sdbs 
+bin/c_strncpy-function-test 
+sudo apt autoclean
+tree bin/
+git clone https://github.com/r-gregor/d_metsys.git
+sudo sync
+/media/rgregor/EKSFAT/RUN-rsync-jbez0rg_WD_5Tb 
+duh
+
+git commit -a
+db0
+uname -a
+exit
+/media/rgregor/B1_2_EXT4/RUN-rsync-jbez0rg_SEAGATE_1-5Tb 
+sudo apt autoremove
+sudo apt dist-upgrade
+sudo apt upgrade
+fm
+mntm
+gpd
+db1
+mount
+git status
+sbr
+sudo apt update
+tree
+make
+make clean 
+sudo reboot
+un-mount_dev_sdas 
+l
+pwf
